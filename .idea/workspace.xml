@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554ebd07-3ae0-4225-bada-cc984667728e" name="Default" comment="" />
+    <list default="true" id="554ebd07-3ae0-4225-bada-cc984667728e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/query.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="DOM.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,12 +46,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="946">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="query.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/query.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="136" column="37" selection-start-line="136" selection-start-column="6" selection-end-line="136" selection-end-column="37" />
+              <folding>
+                <element signature="e#40#234#0" expanded="false" />
+                <element signature="e#313#1310#0" expanded="false" />
+                <element signature="e#486#576#0" expanded="false" />
+                <element signature="e#794#1282#0" expanded="false" />
+                <element signature="e#808#857#0" expanded="false" />
+                <element signature="e#990#1213#0" expanded="false" />
+                <element signature="e#1112#1199#0" expanded="false" />
+                <element signature="e#1317#1477#0" expanded="false" />
+                <element signature="e#1534#2303#0" expanded="false" />
+                <element signature="e#1642#2275#0" expanded="false" />
+                <element signature="e#1713#2265#0" expanded="false" />
+                <element signature="e#1731#1750#0" expanded="false" />
+                <element signature="e#1905#2179#0" expanded="false" />
+                <element signature="e#2087#2161#0" expanded="false" />
+                <element signature="e#2185#2251#0" expanded="false" />
+                <element signature="e#2373#2645#0" expanded="false" />
+                <element signature="e#2423#2484#0" expanded="false" />
+                <element signature="e#2569#2619#0" expanded="false" />
+                <element signature="e#2724#2894#0" expanded="false" />
+                <element signature="e#2793#2868#0" expanded="false" />
+                <element signature="e#2969#3020#0" expanded="false" />
+                <element signature="e#3090#3346#0" expanded="false" />
+                <element signature="e#3136#3193#0" expanded="false" />
+                <element signature="e#3274#3320#0" expanded="false" />
+                <element signature="e#3425#3600#0" expanded="false" />
+                <element signature="e#3494#3574#0" expanded="false" />
+                <element signature="e#3687#3874#0" expanded="false" />
+                <element signature="e#3956#4067#0" expanded="false" />
+                <element signature="e#4157#4214#0" expanded="false" />
+                <element signature="e#4303#4402#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,6 +114,7 @@
       <list>
         <option value="$PROJECT_DIR$/style.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/query.js" />
       </list>
     </option>
   </component>
@@ -204,33 +250,33 @@
       <updated>1475829021628</updated>
       <workItem from="1475829022902" duration="762000" />
       <workItem from="1475834128597" duration="238000" />
-      <workItem from="1475834503428" duration="11000" />
+      <workItem from="1475834503428" duration="353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1011000" />
+    <option name="totallyTimeSpent" value="1353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="712" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -310,9 +356,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="946">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="136" column="37" selection-start-line="136" selection-start-column="6" selection-end-line="136" selection-end-column="37" />
+          <folding>
+            <element signature="e#40#234#0" expanded="false" />
+            <element signature="e#313#1310#0" expanded="false" />
+            <element signature="e#486#576#0" expanded="false" />
+            <element signature="e#794#1282#0" expanded="false" />
+            <element signature="e#808#857#0" expanded="false" />
+            <element signature="e#990#1213#0" expanded="false" />
+            <element signature="e#1112#1199#0" expanded="false" />
+            <element signature="e#1317#1477#0" expanded="false" />
+            <element signature="e#1534#2303#0" expanded="false" />
+            <element signature="e#1642#2275#0" expanded="false" />
+            <element signature="e#1713#2265#0" expanded="false" />
+            <element signature="e#1731#1750#0" expanded="false" />
+            <element signature="e#1905#2179#0" expanded="false" />
+            <element signature="e#2087#2161#0" expanded="false" />
+            <element signature="e#2185#2251#0" expanded="false" />
+            <element signature="e#2373#2645#0" expanded="false" />
+            <element signature="e#2423#2484#0" expanded="false" />
+            <element signature="e#2569#2619#0" expanded="false" />
+            <element signature="e#2724#2894#0" expanded="false" />
+            <element signature="e#2793#2868#0" expanded="false" />
+            <element signature="e#2969#3020#0" expanded="false" />
+            <element signature="e#3090#3346#0" expanded="false" />
+            <element signature="e#3136#3193#0" expanded="false" />
+            <element signature="e#3274#3320#0" expanded="false" />
+            <element signature="e#3425#3600#0" expanded="false" />
+            <element signature="e#3494#3574#0" expanded="false" />
+            <element signature="e#3687#3874#0" expanded="false" />
+            <element signature="e#3956#4067#0" expanded="false" />
+            <element signature="e#4157#4214#0" expanded="false" />
+            <element signature="e#4303#4402#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
