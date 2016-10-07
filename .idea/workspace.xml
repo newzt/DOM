@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="554ebd07-3ae0-4225-bada-cc984667728e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="554ebd07-3ae0-4225-bada-cc984667728e" name="Default" comment="" />
     <ignored path="DOM.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,7 +26,7 @@
       <file leaf-file-name="style.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="682">
               <caret line="99" column="41" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="41" />
               <folding>
                 <element signature="e#279#1716#0" expanded="false" />
@@ -112,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,6 +130,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,17 +204,18 @@
       <updated>1475829021628</updated>
       <workItem from="1475829022902" duration="762000" />
       <workItem from="1475834128597" duration="238000" />
+      <workItem from="1475834503428" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1000000" />
+    <option name="totallyTimeSpent" value="1011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="712" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24939467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -253,6 +251,31 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/style.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="99" column="41" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="41" />
+          <folding>
+            <element signature="e#279#1716#0" expanded="false" />
+            <element signature="e#1812#1928#0" expanded="false" />
+            <element signature="e#2022#2417#0" expanded="false" />
+            <element signature="e#2486#2706#0" expanded="false" />
+            <element signature="e#2799#2911#0" expanded="false" />
+            <element signature="e#2998#3111#0" expanded="false" />
+            <element signature="e#3207#3405#0" expanded="false" />
+            <element signature="e#3513#3632#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -270,7 +293,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
+        <state relative-caret-position="682">
           <caret line="99" column="41" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="41" />
           <folding>
             <element signature="e#279#1716#0" expanded="false" />
