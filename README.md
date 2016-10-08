@@ -1,6 +1,20 @@
 DOM库
 包含操作DOM的常用方法以及兼容性处理
 
+/*base.js*/
+
+isNum、isStr、isBoo...检测数据类型的方法
+
+each:实现数组和对象的遍历
+
+listToArray:实现将类数组转换为数组
+
+extend:在DOM库上扩展方法
+
+----
+
+/*style.js*/
+
 css:设置或者获取元素的style样式值
 
 setGroupCss:批量设置元素的样式属性值
@@ -20,6 +34,9 @@ toggleClass:如果当前样式类名存在,则是移除,不存在则是增加
 
 
 ----
+
+/*query.js*/
+
 getElementsByClass:通过元素的样式类名获取一个元素集合
 
 children:获取当前元素下所有指定标签名的元素子节点集合
@@ -44,6 +61,8 @@ last:获取当前元素指定标签名字的所有元素子节点中的最后一
 
 
 ---
+/*operation.js*/
+
 
 attr:获取或者设置当前元素的自定义属性
 
