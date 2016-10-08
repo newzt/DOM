@@ -101,4 +101,5 @@
     utils.toggleClass = function toggleClass(curEle, strClass) {
         this.hasClass(curEle, strClass) ? this.removeClass(curEle, strClass) : this.addClass(curEle, strClass);
     };
+    window.ztDOM.extend(utils);
 })();

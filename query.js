@@ -139,4 +139,5 @@
         var child = this.children(curEle, tagName);
         return child[child.length - 1];
     };
+    window.ztDOM.extend(utils);
 })();

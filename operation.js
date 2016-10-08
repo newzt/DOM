@@ -36,4 +36,5 @@
         var nex = this.next(oldEle), par = oldEle.parentNode;
         nex ? par.insertBefore(newEle, nex) : par.appendChild(newEle);
     };
+    window.ztDOM.extend(utils);
 })();
